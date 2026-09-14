@@ -1,0 +1,9 @@
+assignment: 1
+name: Noah Lott
+email: noah.lott@northeastern.edu
+git_config:
+  user.name=nlott
+  user.email=noah.lott@northeastern.edu
+github_student_developer_pack: yes
+aws_account_id: 123456789012
+ssh_config: successful
